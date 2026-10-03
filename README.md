@@ -29,5 +29,10 @@ ORDER BY
 *An interactive dashboard was built in Tableau Public to visualize shipping mode performance, delivery days, and financial risk* 
 * Live Dashboard: https://public.tableau.com/shared/WW29QPHCN?:display_count=n&:origin=viz_share_link
 * Dashboard Preview:
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/08d1e6e1-0c79-492b-8977-530d09339bce" />
-# 📌Project Overview & Business Problem
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/08d1e6e1-0c79-492b-8977-530d09339bce"/>
+
+# 💡Key Insights & Recommendations
+* Identifying the Primary Risk: Standard Class carries the highest financial threat, contributing to the majority of both revenue at risk and delayed profit.
+* Quantifying Total Exposure: Operational delays across all shipping modes subject the business to **$21M in Gross Revenue at Risk** and **$2M in Delayed Profit**.
+* Strategic Recommendation: Management should review contracts with delivery carries for Standard Class routes or shift shipments to more reliable shipping methods to prevent these delays.
+
